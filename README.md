@@ -21,7 +21,7 @@ Using the code located here: [PyPoll_Challenge](PyPoll_Challenge.py) The followi
 
 This iformation was output in the election_analysis text file located here: [election_analysis](analysis/election_analysis.txt)
 
-This is an image of the output from the terminal: ![terminal_output](resources/terminal_output.png)
+This is an image of the output from the terminal: ![terminal_output](Resources/terminal_output.PNG)
 
 ## Election-Audit Summary:
 This code is fairly robust and would work for election files so long as the data is collected in a csv file titled "election_results" located in a resources folder. The candidate name must be located in the third column, and the county in the second column. Updates to this code to allow it to be used for different elction files would include:
